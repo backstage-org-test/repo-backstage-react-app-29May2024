@@ -1,0 +1,8 @@
+site_name: "backstage-react-app-29May2024"
+site_description: "backstage-react-app-29May2024"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
